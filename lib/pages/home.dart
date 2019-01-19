@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
             child: ListTile(
               title: new Icon(Icons.account_balance_wallet, size: 64.0, color: Colors.grey,),
               subtitle: new Padding(padding: EdgeInsets.only(left: size / 3.5),
-                child: new Text("Não despedice dinheiro", style: TextStyle(fontSize: 16.0)),),
+                child: new Text("Não desperdice dinheiro", style: TextStyle(fontSize: 16.0)),),
             ),
           )
         ],
